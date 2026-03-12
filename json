@@ -1,0 +1,168 @@
+{
+  "Prelims": {
+    "History": {
+      "Ancient India": [
+        "Prehistoric Period",
+        "Indus Valley Civilization",
+        "Vedic Period",
+        "Mahajanapadas",
+        "Mauryan Empire",
+        "Post-Mauryan Period",
+        "Gupta Empire",
+        "Harshavardhana",
+        "South Indian Dynasties"
+      ],
+      "Medieval India": [
+        "Early Medieval Period",
+        "Delhi Sultanate",
+        "Vijayanagara Empire",
+        "Mughal Empire",
+        "Maratha Empire",
+        "Bhakti Movement",
+        "Sufism"
+      ],
+      "Modern India": [
+        "European Penetration",
+        "British Expansion",
+        "Economic Impact",
+        "Social and Cultural Reform",
+        "Revolt of 1857",
+        "National Movement",
+        "Gandhian Era",
+        "Towards Independence"
+      ]
+    },
+    "Geography": {
+      "Physical Geography": [
+        "Geomorphology",
+        "Climatology",
+        "Oceanography",
+        "Biogeography",
+        "Environmental Geography"
+      ],
+      "Indian Geography": [
+        "Physical Setting",
+        "Climate",
+        "Drainage System",
+        "Natural Vegetation",
+        "Soils",
+        "Agriculture",
+        "Mineral Resources",
+        "Industries",
+        "Transport"
+      ],
+      "Human Geography": [
+        "Population",
+        "Settlements",
+        "Migration",
+        "Economic Activities"
+      ]
+    },
+    "Polity": {
+      "Constitutional Framework": [
+        "Historical Background",
+        "Making of Constitution",
+        "Preamble",
+        "Union and Territory",
+        "Citizenship",
+        "Fundamental Rights",
+        "Directive Principles",
+        "Fundamental Duties"
+      ],
+      "Central Government": [
+        "President",
+        "Vice President",
+        "Prime Minister",
+        "Council of Ministers",
+        "Parliament",
+        "Supreme Court"
+      ],
+      "State Government": [
+        "Governor",
+        "Chief Minister",
+        "State Legislature",
+        "High Courts"
+      ],
+      "Local Government": [
+        "Panchayati Raj",
+        "Municipalities"
+      ]
+    },
+    "Economy": {
+      "Basic Concepts": [
+        "Microeconomics",
+        "Macroeconomics",
+        "National Income",
+        "Economic Planning",
+        "Budget"
+      ],
+      "Banking & Finance": [
+        "RBI",
+        "Commercial Banks",
+        "NBFCs",
+        "Monetary Policy",
+        "Financial Markets"
+      ],
+      "Sectors": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Infrastructure"
+      ],
+      "Government Schemes": [
+        "Welfare Schemes",
+        "Social Sector",
+        "Employment Programs"
+      ]
+    },
+    "Science & Tech": {
+      "General Science": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Biotechnology"
+      ],
+      "Technology": [
+        "Space Technology",
+        "Defense Technology",
+        "IT & Computers",
+        "Nanotechnology",
+        "Robotics"
+      ],
+      "Environment": [
+        "Ecology",
+        "Biodiversity",
+        "Climate Change",
+        "Pollution",
+        "Conservation"
+      ]
+    }
+  },
+  "Mains": {
+    "GS Paper 1": {
+      "Indian Heritage & Culture": [],
+      "Modern Indian History": [],
+      "World History": [],
+      "Society": []
+    },
+    "GS Paper 2": {
+      "Polity": [],
+      "Governance": [],
+      "Social Justice": [],
+      "International Relations": []
+    },
+    "GS Paper 3": {
+      "Economy": [],
+      "Agriculture": [],
+      "Science & Tech": [],
+      "Environment": [],
+      "Security": []
+    },
+    "GS Paper 4": {
+      "Ethics": [],
+      "Integrity": [],
+      "Aptitude": []
+    },
+    "Optional": {}
+  }
+}
